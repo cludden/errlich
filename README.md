@@ -174,10 +174,14 @@ if (err) {
 
 ### #silentWrap(...args)
 Same as #wrap, except no notifiers will be called.
+
+
 ---
 
 ### #silentWrapSync(...args)
 Same as #wrapSync, except no notifiers will be called.
+
+
 ---
 
 ### #wrap(...args)
