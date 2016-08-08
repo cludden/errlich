@@ -3,7 +3,7 @@ a lightweight provider of utility error handling functions for RESTful apis, usi
 
 
 
-## Install
+## Installing
 install
 ```bash
 npm install --save errlich
